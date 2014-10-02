@@ -6,7 +6,12 @@ public class AnotherFile {
 	
 	public AnotherFile()
 	{
-		test = 1;
+		test = return4();
+	}
+	
+	public int return4()
+	{
+		return 4;
 	}
 	
 }
